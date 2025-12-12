@@ -6,7 +6,6 @@
 <img src=resources/logo.svg width="20%"/>
 </div>
 <p align="center">
-    👋 加入我们的 <a href="resources/WECHAT.md" target="_blank">微信</a> 社区
 </p>
 
 ## 项目介绍
@@ -93,6 +92,8 @@ adb devices
 ## 使用 AutoGLM
 
 ### 命令行
+<img width="1678" height="1190" alt="cecbcd8df3a3c3fa9b670df0f9bf00d6" src="https://github.com/user-attachments/assets/143269ae-5f63-4121-bb64-25a8ab1da5ca" />
+
 
 根据你部署的模型, 设置 `--base-url` 和 `--model` 参数. 例如:
 
